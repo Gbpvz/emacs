@@ -1,0 +1,173 @@
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/!svn/ver/6891/common/emacs_config/.emacs.d/emacs-for-python/snippets/django/python-mode
+END
+integer
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/!svn/ver/6891/common/emacs_config/.emacs.d/emacs-for-python/snippets/django/python-mode/integer
+END
+decimal
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/!svn/ver/6891/common/emacs_config/.emacs.d/emacs-for-python/snippets/django/python-mode/decimal
+END
+time
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/!svn/ver/6891/common/emacs_config/.emacs.d/emacs-for-python/snippets/django/python-mode/time
+END
+fk
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/!svn/ver/6891/common/emacs_config/.emacs.d/emacs-for-python/snippets/django/python-mode/fk
+END
+model
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/!svn/ver/6891/common/emacs_config/.emacs.d/emacs-for-python/snippets/django/python-mode/model
+END
+xml
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/!svn/ver/6891/common/emacs_config/.emacs.d/emacs-for-python/snippets/django/python-mode/xml
+END
+dtime
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/!svn/ver/6891/common/emacs_config/.emacs.d/emacs-for-python/snippets/django/python-mode/dtime
+END
+url
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/!svn/ver/6891/common/emacs_config/.emacs.d/emacs-for-python/snippets/django/python-mode/url
+END
+commaseparatedinteger
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/!svn/ver/6891/common/emacs_config/.emacs.d/emacs-for-python/snippets/django/python-mode/commaseparatedinteger
+END
+float
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/!svn/ver/6891/common/emacs_config/.emacs.d/emacs-for-python/snippets/django/python-mode/float
+END
+auto
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/!svn/ver/6891/common/emacs_config/.emacs.d/emacs-for-python/snippets/django/python-mode/auto
+END
+positivesmallinteger
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/!svn/ver/6891/common/emacs_config/.emacs.d/emacs-for-python/snippets/django/python-mode/positivesmallinteger
+END
+nullboolean
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/!svn/ver/6891/common/emacs_config/.emacs.d/emacs-for-python/snippets/django/python-mode/nullboolean
+END
+slug
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/!svn/ver/6891/common/emacs_config/.emacs.d/emacs-for-python/snippets/django/python-mode/slug
+END
+date
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/!svn/ver/6891/common/emacs_config/.emacs.d/emacs-for-python/snippets/django/python-mode/date
+END
+char
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/!svn/ver/6891/common/emacs_config/.emacs.d/emacs-for-python/snippets/django/python-mode/char
+END
+ipaddress
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/!svn/ver/6891/common/emacs_config/.emacs.d/emacs-for-python/snippets/django/python-mode/ipaddress
+END
+file
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/!svn/ver/6891/common/emacs_config/.emacs.d/emacs-for-python/snippets/django/python-mode/file
+END
+boolean
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/!svn/ver/6891/common/emacs_config/.emacs.d/emacs-for-python/snippets/django/python-mode/boolean
+END
+positiveinteger
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/!svn/ver/6891/common/emacs_config/.emacs.d/emacs-for-python/snippets/django/python-mode/positiveinteger
+END
+image
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/!svn/ver/6891/common/emacs_config/.emacs.d/emacs-for-python/snippets/django/python-mode/image
+END
+phonenumber
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/!svn/ver/6891/common/emacs_config/.emacs.d/emacs-for-python/snippets/django/python-mode/phonenumber
+END
+text
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/!svn/ver/6891/common/emacs_config/.emacs.d/emacs-for-python/snippets/django/python-mode/text
+END
+smallinteger
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/!svn/ver/6891/common/emacs_config/.emacs.d/emacs-for-python/snippets/django/python-mode/smallinteger
+END
+email
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/!svn/ver/6891/common/emacs_config/.emacs.d/emacs-for-python/snippets/django/python-mode/email
+END
+manytomany
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/!svn/ver/6891/common/emacs_config/.emacs.d/emacs-for-python/snippets/django/python-mode/manytomany
+END
+filepath
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/!svn/ver/6891/common/emacs_config/.emacs.d/emacs-for-python/snippets/django/python-mode/filepath
+END
+sendmail
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/!svn/ver/6891/common/emacs_config/.emacs.d/emacs-for-python/snippets/django/python-mode/sendmail
+END

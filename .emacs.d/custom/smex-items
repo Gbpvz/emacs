@@ -1,0 +1,26 @@
+
+;; ----- smex-history -----
+(
+ gdb
+ compile
+ make-face
+ package-install
+ copy-to-buffer
+ man
+ org-cycle
+)
+
+;; ----- smex-data -----
+(
+ (sr-speedbar-open . 1)
+ (helm-gtags-mode . 1)
+ (comment-dwim . 2)
+ (package-install . 4)
+ (sr-speedbar-toggle . 2)
+ (org-cycle . 1)
+ (man . 2)
+ (compile . 8)
+ (copy-to-buffer . 1)
+ (gdb . 4)
+ (make-face . 1)
+)

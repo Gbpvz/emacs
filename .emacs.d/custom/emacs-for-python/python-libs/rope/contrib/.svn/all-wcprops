@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/!svn/ver/6891/common/emacs_config/.emacs.d/emacs-for-python/python-libs/rope/contrib
+END
+autoimport.py
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/!svn/ver/6891/common/emacs_config/.emacs.d/emacs-for-python/python-libs/rope/contrib/autoimport.py
+END
+fixmodnames.py
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/!svn/ver/6891/common/emacs_config/.emacs.d/emacs-for-python/python-libs/rope/contrib/fixmodnames.py
+END
+generate.py
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/!svn/ver/6891/common/emacs_config/.emacs.d/emacs-for-python/python-libs/rope/contrib/generate.py
+END
+changestack.py
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/!svn/ver/6891/common/emacs_config/.emacs.d/emacs-for-python/python-libs/rope/contrib/changestack.py
+END
+finderrors.py
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/!svn/ver/6891/common/emacs_config/.emacs.d/emacs-for-python/python-libs/rope/contrib/finderrors.py
+END
+findit.py
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/!svn/ver/6891/common/emacs_config/.emacs.d/emacs-for-python/python-libs/rope/contrib/findit.py
+END
+fixsyntax.py
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/!svn/ver/6891/common/emacs_config/.emacs.d/emacs-for-python/python-libs/rope/contrib/fixsyntax.py
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/!svn/ver/6891/common/emacs_config/.emacs.d/emacs-for-python/python-libs/rope/contrib/__init__.py
+END
+codeassist.py
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/!svn/ver/6891/common/emacs_config/.emacs.d/emacs-for-python/python-libs/rope/contrib/codeassist.py
+END

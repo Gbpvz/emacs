@@ -1,0 +1,1 @@
+("~/.emacs.d/" "~/algorithm.fonrich.com/mcu/Ai/Ai_VRF_m2sa_apf3p/Ai_VRF_m2sa_apf3p_0.x/" "~/algorithm.fonrich.com/")

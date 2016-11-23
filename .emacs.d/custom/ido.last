@@ -1,0 +1,56 @@
+;;; -*- coding: utf-8 -*-
+
+;; ----- ido-last-directory-list -----
+(
+ ("/home/gaobo/algorithm.fonrich.com/mcu/Ai/Ai_VRF_m2sa_apf3p/" . "Ai_VRF_m2sa_apf3p_0.x/")
+ ("/home/gaobo/algorithm.fonrich.com/mcu/Ai/" . "Ai_VRF_m2sa_apf3p/")
+ ("/home/gaobo/algorithm.fonrich.com/mcu/" . "Ai/")
+ ("/home/gaobo/algorithm.fonrich.com/" . "mcu/")
+ ("/home/gaobo/" . "algorithm.fonrich.com/")
+ ("/home/" . "gaobo/")
+)
+
+;; ----- ido-work-directory-list -----
+(
+ "/home/gaobo/algorithm.fonrich.com/mcu/Ai/Ai_VRF_m2sa_apf3p/Ai_VRF_m2sa_apf3p_0.x/"
+ "/home/gaobo/algorithm.fonrich.com/"
+ "/home/gaobo/algorithm.fonrich.com/mcu/Ai/Ai_VRF_m2sa_apf3p/"
+ "/home/gaobo/"
+)
+
+;; ----- ido-work-file-list -----
+(
+ ".emacs"
+)
+
+;; ----- ido-dir-file-cache -----
+(
+ ("/home/gaobo/algorithm.fonrich.com/mcu/Ai/Ai_VRF_m2sa_apf3p/Ai_VRF_m2sa_apf3p_0.x/" (22580 64221 485646 122000) "GTAGS" "../" "libc/" "app/" "tools/" "GRTAGS" "include/" "GSYMS" "scripts/" "armv7-m/" "Makefile" "GPATH" "smartfusion2/" "lib/" "Config.defs" "./" "Make.defs")
+
+ ("/home/gaobo/.emacs.d/" (22580 65312 330706 409000) "../" "snippets/" "ido.last" ".git/" "projectile-bookmarks.eld" "README.md" "emacs-for-python/" "session.105e27fa6354e688e4147981415443351700000012210034" "smex/" "ac-comphist.dat" "projectile.cache" "elpa/" "custom/" "semanticdb/" "init.el" "ido.last~" "smex-items" "ede-projects.el" "auto-save-list/" "./" "session.105e27fa6354e688e4147981513944361300000012210035" "eproject.lst")
+
+ ("/home/gaobo/" (22580 58023 425857 640000) ".aptitude/" ".xboardrc" "../" ".subversion/" ".pip/" ".local/" "backup/" "Documents/" ".dbus/" ".profile" "svn.fonrich.com/" ".p2/" ".bashrc" "Music/" "#emacsinfo#" ".mozilla/" ".config/" "cpp-neon/" "eclipse_ws/" "Templates/" ".lesshst" "#*message*-20161118-192351#" ".bash_history" ".ICEauthority" ".gitconfig" "myPythonTools/" ".bogofilter/" ".gnome2/" ".gconf/" "python-defaults_2.7.9-1.dsc" "Desktop/" ".swt/" ".bashrc~" "Public/" ".emacs.d/" "learn/" "learn1/" "algorithm.fonrich.com/" ".pki/" ".oracle_jre_usage/" "Videos/" ".eclipse/" "Downloads/" "python-defaults_2.7.9-1.tar.gz" ".ssh/" "Packages/" ".cache/" "Pictures/" ".gnupg/" "python-defaults-2.7.9/" "./" "temp/" "java/" ".gnome2_private/" ".python_history" ".bash_logout")
+
+ ("/home/gaobo/algorithm.fonrich.com/mcu/Ai/Ai_VRF_m2sa_apf3p/Ai_VRF_m2sa_apf3p_0.x/app/" (22580 30193 538129 976000) "../" "#spi_sys.c#" "spi_asi.c" ".#main.c" "m2sa_fpga.h" "libapp.a" "Makefile" "app.h" "m2sa_fpga.c" "spi_asi.o" "main.c" "#m2sa_fpga.c#" "m2sa_fpga.o" "spi_sys.c" "#app.h#" "./" "#main.c#" "spi_sys.o" "main.o")
+
+ ("/home/gaobo/algorithm.fonrich.com/mcu/" (22570 60396 529457 343000) "../" "Ai/" "mcu_fw_versions.ods" "./")
+
+ ("/home/gaobo/algorithm.fonrich.com/mcu/Ai/" (22570 51385 458815 2000) "../" "Ai_VRF_m2sa_apf3p/" "./")
+
+ ("/home/gaobo/algorithm.fonrich.com/mcu/Ai/Ai_VRF_m2sa_apf3p/" (22570 60440 249540 719000) "../" "Ai_VRF_m2sa_apf3p.odt" "Ai_VRF_m2sa_apf3p_0.x/" "./")
+
+ ("/home/gaobo/algorithm.fonrich.com/mcu/Ai/Ai_VRF_m2sa_apf3p/Ai_VRF_m2sa_apf3p_0.x/include/" (22575 51620 576579 602000) "../" "math.h" "IQmathLib.h" "semaphore.h" "message.h" "types.h" "stdbool.h" "stdint.h" "clock.h" "queue.h" "config.h" "internals/" "qroutine.h" "float.h" "./" "up/" "chip/" "errno.h")
+
+ ("/home/gaobo/algorithm.fonrich.com/" (22575 41358 376479 377000) "../" "mcu/" ".svn/" "debug/" "./" "test/")
+
+ ("/home/" (22569 34060 549677 37000) "../" "gaobo/" "./")
+
+ ("/home/gaobo/backup/" (22580 9716 797558 618000) "../" "emacs/" ".emacs.d/" ".emacs" "./")
+
+ ("/home/gaobo/backup/emacs/" (22580 9759 161559 19000) "../" ".emacs.d/" ".emacs" "./")
+
+ ("/home/gaobo/backup/emacs/.emacs.d/" (22580 9759 481559 22000) "session.10ab5e037adee1239e147957061522197300000012190033" "eshell/" "color-theme.el" "../" "ido.last" "places" "emacs-for-python/" "smex/" "session.10e4eb18969ad6ab2a147944957223885300000011730034" "ac-comphist.dat" "pos-tip.el" "session.103a7ac710c6e88e6e14795385253927500000011560033" "session.109fe4bdc9e714b2a6147965104065644500000011960044" "elpa/" "session.10ea86dff0a1e79fa914794844305399600000011910031" "session.10385884bd1e4d236147931296286091400000012510037" "session.107445ba2162551c94147939347644251900000011880034" "init.el" "session.10c7337b9d6b0166a8147938414982464100000011910033" "auto-complete/" "smex-items" "popup-el/" "session.103a7ac710c6e88e6e147952288143583000000011560032" "session.1046023dad5e9a4aaf147929911873212200000011980046" "session.105bda3a9781f9ba3b147951690125900900000011530031" "auto-save-list/" "kconfig-mode.el" "./" "color-theme-6.6.0/" "bookmarks" "session.108c73b1451e1b8541147942988379623600000012110032" "session.10c1d08a96565626ec14797265551596900000012110036" "fuzzy.el" "eproject.lst")
+)
+
+;; ----- ido-unc-hosts-cache -----
+t

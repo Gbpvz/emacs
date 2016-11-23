@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/!svn/ver/6891/common/emacs_config/.emacs.d/emacs-for-python/python-libs/rope/base/oi
+END
+transform.py
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/!svn/ver/6891/common/emacs_config/.emacs.d/emacs-for-python/python-libs/rope/base/oi/transform.py
+END
+objectdb.py
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/!svn/ver/6891/common/emacs_config/.emacs.d/emacs-for-python/python-libs/rope/base/oi/objectdb.py
+END
+memorydb.py
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/!svn/ver/6891/common/emacs_config/.emacs.d/emacs-for-python/python-libs/rope/base/oi/memorydb.py
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/!svn/ver/6891/common/emacs_config/.emacs.d/emacs-for-python/python-libs/rope/base/oi/__init__.py
+END
+objectinfo.py
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/!svn/ver/6891/common/emacs_config/.emacs.d/emacs-for-python/python-libs/rope/base/oi/objectinfo.py
+END
+soa.py
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/!svn/ver/6891/common/emacs_config/.emacs.d/emacs-for-python/python-libs/rope/base/oi/soa.py
+END
+doa.py
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/!svn/ver/6891/common/emacs_config/.emacs.d/emacs-for-python/python-libs/rope/base/oi/doa.py
+END
+runmod.py
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/!svn/ver/6891/common/emacs_config/.emacs.d/emacs-for-python/python-libs/rope/base/oi/runmod.py
+END
+soi.py
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/!svn/ver/6891/common/emacs_config/.emacs.d/emacs-for-python/python-libs/rope/base/oi/soi.py
+END

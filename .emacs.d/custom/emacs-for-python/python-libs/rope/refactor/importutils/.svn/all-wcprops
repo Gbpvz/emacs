@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/!svn/ver/6891/common/emacs_config/.emacs.d/emacs-for-python/python-libs/rope/refactor/importutils
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/!svn/ver/6891/common/emacs_config/.emacs.d/emacs-for-python/python-libs/rope/refactor/importutils/__init__.py
+END
+actions.py
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/!svn/ver/6891/common/emacs_config/.emacs.d/emacs-for-python/python-libs/rope/refactor/importutils/actions.py
+END
+module_imports.py
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/!svn/ver/6891/common/emacs_config/.emacs.d/emacs-for-python/python-libs/rope/refactor/importutils/module_imports.py
+END
+importinfo.py
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/!svn/ver/6891/common/emacs_config/.emacs.d/emacs-for-python/python-libs/rope/refactor/importutils/importinfo.py
+END

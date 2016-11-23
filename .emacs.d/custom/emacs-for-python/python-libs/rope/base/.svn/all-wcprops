@@ -1,0 +1,173 @@
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/!svn/ver/6891/common/emacs_config/.emacs.d/emacs-for-python/python-libs/rope/base
+END
+change.py
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/!svn/ver/6891/common/emacs_config/.emacs.d/emacs-for-python/python-libs/rope/base/change.py
+END
+ast.py
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/!svn/ver/6891/common/emacs_config/.emacs.d/emacs-for-python/python-libs/rope/base/ast.py
+END
+libutils.py
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/!svn/ver/6891/common/emacs_config/.emacs.d/emacs-for-python/python-libs/rope/base/libutils.py
+END
+builtins.py
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/!svn/ver/6891/common/emacs_config/.emacs.d/emacs-for-python/python-libs/rope/base/builtins.py
+END
+fscommands.py
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/!svn/ver/6891/common/emacs_config/.emacs.d/emacs-for-python/python-libs/rope/base/fscommands.py
+END
+pynamesdef.py
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/!svn/ver/6891/common/emacs_config/.emacs.d/emacs-for-python/python-libs/rope/base/pynamesdef.py
+END
+simplify.py
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/!svn/ver/6891/common/emacs_config/.emacs.d/emacs-for-python/python-libs/rope/base/simplify.py
+END
+codeanalyze.py
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/!svn/ver/6891/common/emacs_config/.emacs.d/emacs-for-python/python-libs/rope/base/codeanalyze.py
+END
+resourceobserver.py
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/!svn/ver/6891/common/emacs_config/.emacs.d/emacs-for-python/python-libs/rope/base/resourceobserver.py
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/!svn/ver/6891/common/emacs_config/.emacs.d/emacs-for-python/python-libs/rope/base/__init__.py
+END
+utils.py
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/!svn/ver/6891/common/emacs_config/.emacs.d/emacs-for-python/python-libs/rope/base/utils.py
+END
+pycore.py
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/!svn/ver/6891/common/emacs_config/.emacs.d/emacs-for-python/python-libs/rope/base/pycore.py
+END
+history.py
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/!svn/ver/6891/common/emacs_config/.emacs.d/emacs-for-python/python-libs/rope/base/history.py
+END
+worder.py
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/!svn/ver/6891/common/emacs_config/.emacs.d/emacs-for-python/python-libs/rope/base/worder.py
+END
+pyobjects.py
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/!svn/ver/6891/common/emacs_config/.emacs.d/emacs-for-python/python-libs/rope/base/pyobjects.py
+END
+arguments.py
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/!svn/ver/6891/common/emacs_config/.emacs.d/emacs-for-python/python-libs/rope/base/arguments.py
+END
+pyscopes.py
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/!svn/ver/6891/common/emacs_config/.emacs.d/emacs-for-python/python-libs/rope/base/pyscopes.py
+END
+evaluate.py
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/!svn/ver/6891/common/emacs_config/.emacs.d/emacs-for-python/python-libs/rope/base/evaluate.py
+END
+project.py
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/!svn/ver/6891/common/emacs_config/.emacs.d/emacs-for-python/python-libs/rope/base/project.py
+END
+astutils.py
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/!svn/ver/6891/common/emacs_config/.emacs.d/emacs-for-python/python-libs/rope/base/astutils.py
+END
+default_config.py
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/!svn/ver/6891/common/emacs_config/.emacs.d/emacs-for-python/python-libs/rope/base/default_config.py
+END
+resources.py
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/!svn/ver/6891/common/emacs_config/.emacs.d/emacs-for-python/python-libs/rope/base/resources.py
+END
+pynames.py
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/!svn/ver/6891/common/emacs_config/.emacs.d/emacs-for-python/python-libs/rope/base/pynames.py
+END
+stdmods.py
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/!svn/ver/6891/common/emacs_config/.emacs.d/emacs-for-python/python-libs/rope/base/stdmods.py
+END
+taskhandle.py
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/!svn/ver/6891/common/emacs_config/.emacs.d/emacs-for-python/python-libs/rope/base/taskhandle.py
+END
+prefs.py
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/!svn/ver/6891/common/emacs_config/.emacs.d/emacs-for-python/python-libs/rope/base/prefs.py
+END
+pyobjectsdef.py
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/!svn/ver/6891/common/emacs_config/.emacs.d/emacs-for-python/python-libs/rope/base/pyobjectsdef.py
+END
+exceptions.py
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/!svn/ver/6891/common/emacs_config/.emacs.d/emacs-for-python/python-libs/rope/base/exceptions.py
+END

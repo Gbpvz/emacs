@@ -1,0 +1,137 @@
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/!svn/ver/6891/common/emacs_config/.emacs.d/emacs-for-python/extensions/yasnippet/snippets/erlang-mode
+END
+case
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/!svn/ver/6891/common/emacs_config/.emacs.d/emacs-for-python/extensions/yasnippet/snippets/erlang-mode/case
+END
+ifdef
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/!svn/ver/6891/common/emacs_config/.emacs.d/emacs-for-python/extensions/yasnippet/snippets/erlang-mode/ifdef
+END
+try
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/!svn/ver/6891/common/emacs_config/.emacs.d/emacs-for-python/extensions/yasnippet/snippets/erlang-mode/try
+END
+inc.lib
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/!svn/ver/6891/common/emacs_config/.emacs.d/emacs-for-python/extensions/yasnippet/snippets/erlang-mode/inc.lib
+END
+mod
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/!svn/ver/6891/common/emacs_config/.emacs.d/emacs-for-python/extensions/yasnippet/snippets/erlang-mode/mod
+END
+begin
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/!svn/ver/6891/common/emacs_config/.emacs.d/emacs-for-python/extensions/yasnippet/snippets/erlang-mode/begin
+END
+.yas-parents
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/!svn/ver/6891/common/emacs_config/.emacs.d/emacs-for-python/extensions/yasnippet/snippets/erlang-mode/.yas-parents
+END
+imp
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/!svn/ver/6891/common/emacs_config/.emacs.d/emacs-for-python/extensions/yasnippet/snippets/erlang-mode/imp
+END
+fun
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/!svn/ver/6891/common/emacs_config/.emacs.d/emacs-for-python/extensions/yasnippet/snippets/erlang-mode/fun
+END
+compile
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/!svn/ver/6891/common/emacs_config/.emacs.d/emacs-for-python/extensions/yasnippet/snippets/erlang-mode/compile
+END
+rcv
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/!svn/ver/6891/common/emacs_config/.emacs.d/emacs-for-python/extensions/yasnippet/snippets/erlang-mode/rcv
+END
+rcv.after
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/!svn/ver/6891/common/emacs_config/.emacs.d/emacs-for-python/extensions/yasnippet/snippets/erlang-mode/rcv.after
+END
+ifndef
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/!svn/ver/6891/common/emacs_config/.emacs.d/emacs-for-python/extensions/yasnippet/snippets/erlang-mode/ifndef
+END
+exp
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/!svn/ver/6891/common/emacs_config/.emacs.d/emacs-for-python/extensions/yasnippet/snippets/erlang-mode/exp
+END
+if
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/!svn/ver/6891/common/emacs_config/.emacs.d/emacs-for-python/extensions/yasnippet/snippets/erlang-mode/if
+END
+def
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/!svn/ver/6891/common/emacs_config/.emacs.d/emacs-for-python/extensions/yasnippet/snippets/erlang-mode/def
+END
+beh
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/!svn/ver/6891/common/emacs_config/.emacs.d/emacs-for-python/extensions/yasnippet/snippets/erlang-mode/beh
+END
+undef
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/!svn/ver/6891/common/emacs_config/.emacs.d/emacs-for-python/extensions/yasnippet/snippets/erlang-mode/undef
+END
+after
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/!svn/ver/6891/common/emacs_config/.emacs.d/emacs-for-python/extensions/yasnippet/snippets/erlang-mode/after
+END
+inc
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/!svn/ver/6891/common/emacs_config/.emacs.d/emacs-for-python/extensions/yasnippet/snippets/erlang-mode/inc
+END
+loop
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/!svn/ver/6891/common/emacs_config/.emacs.d/emacs-for-python/extensions/yasnippet/snippets/erlang-mode/loop
+END
+rec
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/!svn/ver/6891/common/emacs_config/.emacs.d/emacs-for-python/extensions/yasnippet/snippets/erlang-mode/rec
+END

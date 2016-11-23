@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/!svn/ver/6891/common/emacs_config/.emacs.d/emacs-for-python/extensions
+END
+pymacs.el
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/!svn/ver/6891/common/emacs_config/.emacs.d/emacs-for-python/extensions/pymacs.el
+END
+virtualenv.el
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/!svn/ver/6891/common/emacs_config/.emacs.d/emacs-for-python/extensions/virtualenv.el
+END
+smart-operator.el
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/!svn/ver/6891/common/emacs_config/.emacs.d/emacs-for-python/extensions/smart-operator.el
+END
+epy-project.el
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/!svn/ver/6891/common/emacs_config/.emacs.d/emacs-for-python/extensions/epy-project.el
+END
+highlight-indentation.el
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/!svn/ver/6891/common/emacs_config/.emacs.d/emacs-for-python/extensions/highlight-indentation.el
+END
+python.el
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/!svn/ver/6891/common/emacs_config/.emacs.d/emacs-for-python/extensions/python.el
+END
+open-next-line.el
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/!svn/ver/6891/common/emacs_config/.emacs.d/emacs-for-python/extensions/open-next-line.el
+END
+snippet-helpers.el
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/!svn/ver/6891/common/emacs_config/.emacs.d/emacs-for-python/extensions/snippet-helpers.el
+END
+flymake-cursor.el
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/!svn/ver/6891/common/emacs_config/.emacs.d/emacs-for-python/extensions/flymake-cursor.el
+END
+autopair.el
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/!svn/ver/6891/common/emacs_config/.emacs.d/emacs-for-python/extensions/autopair.el
+END
+nose.el
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/!svn/ver/6891/common/emacs_config/.emacs.d/emacs-for-python/extensions/nose.el
+END
+flymake-patch.el
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/!svn/ver/6891/common/emacs_config/.emacs.d/emacs-for-python/extensions/flymake-patch.el
+END
+cython-mode.el
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/!svn/ver/6891/common/emacs_config/.emacs.d/emacs-for-python/extensions/cython-mode.el
+END

@@ -1,0 +1,70 @@
+;; Object include/
+;; SEMANTICDB Tags save file
+(semanticdb-project-database-file "include/"
+  :tables
+  (list
+    (semanticdb-table "up.h"
+      :major-mode 'c-mode
+      :tags 
+        '( ("___INCLUDE_UP_UP_H" variable (:constant-flag t) nil [36 54])
+            ("config.h" include (:system-flag t) nil [56 75])
+            ("up/types.h" include (:system-flag t) nil [76 97])
+            ("up/nvic.h" include (:system-flag t) nil [98 118])
+            ("getreg8" variable (:constant-flag t) nil [151 158])
+            ("putreg8" variable (:constant-flag t) nil [201 208])
+            ("getreg32" variable (:constant-flag t) nil [258 266])
+            ("putreg32" variable (:constant-flag t) nil [309 317])
+            ("getreg16" function
+               (:typemodifiers ("static" "inline")
+                :arguments 
+                  ( ("addr" variable (:type "unsigned int") (reparse-symbol arg-sub-list) [605 623]))                  
+                :type ("uint16_t" type (:type "class") nil nil))
+                nil [573 734])
+            ("putreg16" function
+               (:typemodifiers ("static" "inline")
+                :arguments 
+                  ( ("val" variable (:type ("uint16_t" type (:type "class") nil nil)) (reparse-symbol arg-sub-list) [831 844])
+                    ("addr" variable (:type "unsigned int") (reparse-symbol arg-sub-list) [845 863]))                  
+                :type "void")
+                nil [803 936])
+            ("modifyreg8" function
+               (:prototype-flag t
+                :arguments 
+                  ( ("addr" variable (:type "unsigned int") (reparse-symbol arg-sub-list) [995 1013])
+                    ("clearbits" variable (:type ("uint8_t" type (:type "class") nil nil)) (reparse-symbol arg-sub-list) [1014 1032])
+                    ("setbits" variable (:type ("uint8_t" type (:type "class") nil nil)) (reparse-symbol arg-sub-list) [1033 1049]))                  
+                :type "void")
+                nil [979 1050])
+            ("modifyreg16" function
+               (:prototype-flag t
+                :arguments 
+                  ( ("addr" variable (:type "unsigned int") (reparse-symbol arg-sub-list) [1068 1086])
+                    ("clearbits" variable (:type ("uint16_t" type (:type "class") nil nil)) (reparse-symbol arg-sub-list) [1087 1106])
+                    ("setbits" variable (:type ("uint16_t" type (:type "class") nil nil)) (reparse-symbol arg-sub-list) [1107 1124]))                  
+                :type "void")
+                nil [1051 1125])
+            ("modifyreg32" function
+               (:prototype-flag t
+                :arguments 
+                  ( ("addr" variable (:type "unsigned int") (reparse-symbol arg-sub-list) [1143 1161])
+                    ("clearbits" variable (:type ("uint32_t" type (:type "class") nil nil)) (reparse-symbol arg-sub-list) [1162 1181])
+                    ("setbits" variable (:type ("uint32_t" type (:type "class") nil nil)) (reparse-symbol arg-sub-list) [1182 1199]))                  
+                :type "void")
+                nil [1126 1200])
+            ("up/irq.h" include (:system-flag t) nil [1203 1222]))          
+      :file "up.h"
+      :pointmax 1283
+      :fsize 1282
+      :lastmodtime '(22570 51385 950815 16000)
+      :unmatched-syntax nil
+      :lexical-table 
+        '(("putreg8" (spp-arg-list ("v" "a") 208 . 213) . ((semantic-list "(*(volatile uint8_t *)(a) = (v))" 216 . 248)))
+          ("putreg32" (spp-arg-list ("v" "a") 317 . 322) . ((semantic-list "(*(volatile uint32_t *)(a) = (v))" 325 . 358)))
+          ("getreg8" (spp-arg-list ("a") 158 . 161) . ((semantic-list "(*(volatile uint8_t *)(a))" 165 . 191)))
+          ("___INCLUDE_UP_UP_H")
+          ("getreg32" (spp-arg-list ("a") 266 . 269) . ((semantic-list "(*(volatile uint32_t *)(a))" 272 . 299)))
+          )
+))
+  :file "!home!gaobo!algorithm.fonrich.com!mcu!Ai!Ai_VRF_m2sa_apf3p!Ai_VRF_m2sa_apf3p_0.x!armv7-m!include!semantic.cache"
+  :semantic-tag-version "2.0"
+  :semanticdb-version "2.2")

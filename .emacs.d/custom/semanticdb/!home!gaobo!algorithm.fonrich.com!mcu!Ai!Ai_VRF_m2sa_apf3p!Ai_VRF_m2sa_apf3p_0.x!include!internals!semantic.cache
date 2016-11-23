@@ -1,0 +1,126 @@
+;; Object internals/
+;; SEMANTICDB Tags save file
+(semanticdb-project-database-file "internals/"
+  :tables
+  (list
+    (semanticdb-table "semaphore.h"
+      :major-mode 'c-mode
+      :tags 
+        '( ("___INCLUDE_INTERNALS_SEMAPHORE_H" variable (:constant-flag t) nil [50 82])
+            ("types.h" include (:system-flag t) nil [84 102])
+            ("queue.h" include (:system-flag t) nil [103 121])
+            ("semaphore.h" include (:system-flag t) nil [122 144])
+            ("sem_s" type
+               (:members 
+                  ( ("qwait" variable (:type ("sq_queue_t" type (:type "class") nil nil)) (reparse-symbol classsubparts) [162 179])
+                    ("qpost" variable (:type ("sq_queue_t" type (:type "class") nil nil)) (reparse-symbol classsubparts) [181 198])
+                    ("qidle" variable (:type ("sq_queue_t" type (:type "class") nil nil)) (reparse-symbol classsubparts) [200 217]))                  
+                :type "struct")
+                nil [146 220])
+            ("sem_node_s" type
+               (:members 
+                  ( ("sq_entry" variable (:type ("sq_entry_t" type (:type "class") nil nil)) (reparse-symbol classsubparts) [243 263])
+                    ("irq" variable (:type ("uint8_t" type (:type "class") nil nil)) (reparse-symbol classsubparts) [301 313])
+                    ("pri" variable (:type ("uint8_t" type (:type "class") nil nil)) (reparse-symbol classsubparts) [386 398])
+                    ("time" variable (:type ("uint8_t" type (:type "class") nil nil)) (reparse-symbol classsubparts) [447 460])
+                    ("rsvd" variable (:type ("uint8_t" type (:type "class") nil nil)) (reparse-symbol classsubparts) [463 476]))                  
+                :type "struct")
+                nil [222 479])
+            ("sem_node_t" type
+               (:typedef ("sem_node_s" type
+                     (:prototype t
+                      :type "struct")
+                      nil nil)
+                :type "typedef")
+                nil [481 518])
+            ("sem_initialize" function
+               (:prototype-flag t
+                :arguments 
+                  ( ("sem" variable
+                       (:pointer 1
+                        :type ("sem_t" type (:type "class") nil nil))
+                        (reparse-symbol arg-sub-list) [540 551])
+                    ("nodes" variable
+                       (:pointer 1
+                        :type ("sem_node_t" type (:type "class") nil nil))
+                        (reparse-symbol arg-sub-list) [552 570])
+                    ("len" variable (:type "int") (reparse-symbol arg-sub-list) [571 579]))                  
+                :type "void")
+                nil [520 580])
+            ("sem_flush" variable (:constant-flag t) nil [590 599])
+            ("sem_waitvalue" function
+               (:prototype-flag t
+                :arguments 
+                  ( ("sem" variable
+                       (:pointer 1
+                        :type ("sem_t" type (:type "class") nil nil))
+                        (reparse-symbol arg-sub-list) [643 654]))                  
+                :type "int")
+                nil [625 655])
+            ("sem_postvalue" function
+               (:prototype-flag t
+                :arguments 
+                  ( ("sem" variable
+                       (:pointer 1
+                        :type ("sem_t" type (:type "class") nil nil))
+                        (reparse-symbol arg-sub-list) [674 685]))                  
+                :type "int")
+                nil [656 686])
+            ("sem_timerequest" function
+               (:prototype-flag t
+                :arguments 
+                  ( ("sem" variable
+                       (:pointer 1
+                        :type ("sem_t" type (:type "class") nil nil))
+                        (reparse-symbol arg-sub-list) [765 776])
+                    ("usec" variable (:type ("useconds_t" type (:type "class") nil nil)) (reparse-symbol arg-sub-list) [777 793]))                  
+                :type "int")
+                nil [745 794])
+            ("sem_post_pendsv" function
+               (:prototype-flag t
+                :arguments 
+                  ( ("irq_from" variable (:type ("uint8_t" type (:type "class") nil nil)) (reparse-symbol arg-sub-list) [817 834])
+                    ("sem" variable
+                       (:pointer 1
+                        :type ("sem_t" type (:type "class") nil nil))
+                        (reparse-symbol arg-sub-list) [835 846]))                  
+                :type "void")
+                nil [796 847])
+            ("sem_insertnode" function
+               (:prototype-flag t
+                :arguments 
+                  ( ("node" variable
+                       (:pointer 1
+                        :type ("sem_node_t" type (:type "class") nil nil))
+                        (reparse-symbol arg-sub-list) [869 886])
+                    ("irq" variable (:type ("uint8_t" type (:type "class") nil nil)) (reparse-symbol arg-sub-list) [887 899])
+                    ("queue" variable
+                       (:pointer 1
+                        :type ("sq_queue_t" type (:type "class") nil nil))
+                        (reparse-symbol arg-sub-list) [900 918]))                  
+                :type "void")
+                nil [849 919])
+            ("iSEM_INIT" variable (:constant-flag t) nil [929 938])
+            ("isem_timewait" variable (:constant-flag t) nil [1094 1107]))          
+      :file "semaphore.h"
+      :pointmax 1298
+      :fsize 1297
+      :lastmodtime '(22570 51385 986815 17000)
+      :unmatched-syntax nil
+      :lexical-table 
+        '(("isem_timewait" (spp-arg-list ("psem" "usec") 1107 . 1119) . 
+              ((DO "do" 1120 . 1122) (semantic-list "{						\\
+		if(sem_timerequest(psem, usec)) {					\\
+			qr_position_##__func__ = __LINE__;				\\
+			return;	case __LINE__: do{}while(0);			\\
+		}													\\
+	}" 1122 . 1280) (WHILE "while" 1280 . 1285) (semantic-list "(0)" 1285 . 1288)))
+          ("___INCLUDE_INTERNALS_SEMAPHORE_H")
+          ("iSEM_INIT" (spp-arg-list ("p_sem" "len") 938 . 950) . 
+              ((STATIC "static" 964 . 970) (symbol "sem_node_t" 971 . 981) (spp-symbol-merge ((spp-symbol-merge ((symbol "sem_nodes_" 982 . 992) (symbol "__func__" 994 . 1002)) 982 . 1002) (symbol "__LINE__" 1004 . 1012)) 982 . 1012) (semantic-list "[len]" 1012 . 1017) (punctuation ";" 1017 . 1018) (symbol "sem_initialize" 1025 . 1039) (semantic-list "(p_sem, sem_nodes_##__func__##__LINE__, len)" 1039 . 1083)))
+          ("sem_flush" (spp-arg-list ("sem") 599 . 604) . ((symbol "sem_waitvalue" 605 . 618) (semantic-list "(sem)" 618 . 623)))
+          )
+))
+  :file "!home!gaobo!algorithm.fonrich.com!mcu!Ai!Ai_VRF_m2sa_apf3p!Ai_VRF_m2sa_apf3p_0.x!include!internals!semantic.cache"
+  :semantic-tag-version "2.0"
+  :semanticdb-version "2.2")

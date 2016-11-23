@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/!svn/ver/6891/common/emacs_config/.emacs.d/emacs-for-python
+END
+epy-python.el
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/!svn/ver/6891/common/emacs_config/.emacs.d/emacs-for-python/epy-python.el
+END
+CONTRIBUTORS
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/!svn/ver/6891/common/emacs_config/.emacs.d/emacs-for-python/CONTRIBUTORS
+END
+epy-init.el
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/!svn/ver/6891/common/emacs_config/.emacs.d/emacs-for-python/epy-init.el
+END
+epy-editing.el
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/!svn/ver/6891/common/emacs_config/.emacs.d/emacs-for-python/epy-editing.el
+END
+epy-nose.el
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/!svn/ver/6891/common/emacs_config/.emacs.d/emacs-for-python/epy-nose.el
+END
+README.org
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/!svn/ver/6891/common/emacs_config/.emacs.d/emacs-for-python/README.org
+END
+epy-completion.el
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/!svn/ver/6891/common/emacs_config/.emacs.d/emacs-for-python/epy-completion.el
+END
+ChangeLog
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/!svn/ver/6891/common/emacs_config/.emacs.d/emacs-for-python/ChangeLog
+END
+epy-bindings.el
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/!svn/ver/6891/common/emacs_config/.emacs.d/emacs-for-python/epy-bindings.el
+END
+COPYING
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/!svn/ver/6891/common/emacs_config/.emacs.d/emacs-for-python/COPYING
+END
+epy-setup.el
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/!svn/ver/6891/common/emacs_config/.emacs.d/emacs-for-python/epy-setup.el
+END

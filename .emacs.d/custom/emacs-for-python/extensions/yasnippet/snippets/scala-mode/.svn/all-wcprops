@@ -1,0 +1,587 @@
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/!svn/ver/6891/common/emacs_config/.emacs.d/emacs-for-python/extensions/yasnippet/snippets/scala-mode
+END
+imp
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/!svn/ver/6891/common/emacs_config/.emacs.d/emacs-for-python/extensions/yasnippet/snippets/scala-mode/imp
+END
+def.ret
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/!svn/ver/6891/common/emacs_config/.emacs.d/emacs-for-python/extensions/yasnippet/snippets/scala-mode/def.ret
+END
+mix
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/!svn/ver/6891/common/emacs_config/.emacs.d/emacs-for-python/extensions/yasnippet/snippets/scala-mode/mix
+END
+hmap.val-new
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/!svn/ver/6891/common/emacs_config/.emacs.d/emacs-for-python/extensions/yasnippet/snippets/scala-mode/hmap.val-new
+END
+for.extract
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/!svn/ver/6891/common/emacs_config/.emacs.d/emacs-for-python/extensions/yasnippet/snippets/scala-mode/for.extract
+END
+tup.arrow
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/!svn/ver/6891/common/emacs_config/.emacs.d/emacs-for-python/extensions/yasnippet/snippets/scala-mode/tup.arrow
+END
+cons
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/!svn/ver/6891/common/emacs_config/.emacs.d/emacs-for-python/extensions/yasnippet/snippets/scala-mode/cons
+END
+ass.true
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/!svn/ver/6891/common/emacs_config/.emacs.d/emacs-for-python/extensions/yasnippet/snippets/scala-mode/ass.true
+END
+foreach
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/!svn/ver/6891/common/emacs_config/.emacs.d/emacs-for-python/extensions/yasnippet/snippets/scala-mode/foreach
+END
+bang
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/!svn/ver/6891/common/emacs_config/.emacs.d/emacs-for-python/extensions/yasnippet/snippets/scala-mode/bang
+END
+cl.abs-arg
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/!svn/ver/6891/common/emacs_config/.emacs.d/emacs-for-python/extensions/yasnippet/snippets/scala-mode/cl.abs-arg
+END
+val.new
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/!svn/ver/6891/common/emacs_config/.emacs.d/emacs-for-python/extensions/yasnippet/snippets/scala-mode/val.new
+END
+val.ret
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/!svn/ver/6891/common/emacs_config/.emacs.d/emacs-for-python/extensions/yasnippet/snippets/scala-mode/val.ret
+END
+hset.val-new
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/!svn/ver/6891/common/emacs_config/.emacs.d/emacs-for-python/extensions/yasnippet/snippets/scala-mode/hset.val-new
+END
+case
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/!svn/ver/6891/common/emacs_config/.emacs.d/emacs-for-python/extensions/yasnippet/snippets/scala-mode/case
+END
+case.match-all
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/!svn/ver/6891/common/emacs_config/.emacs.d/emacs-for-python/extensions/yasnippet/snippets/scala-mode/case.match-all
+END
+ano
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/!svn/ver/6891/common/emacs_config/.emacs.d/emacs-for-python/extensions/yasnippet/snippets/scala-mode/ano
+END
+hmap.new
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/!svn/ver/6891/common/emacs_config/.emacs.d/emacs-for-python/extensions/yasnippet/snippets/scala-mode/hmap.new
+END
+test
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/!svn/ver/6891/common/emacs_config/.emacs.d/emacs-for-python/extensions/yasnippet/snippets/scala-mode/test
+END
+var.new
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/!svn/ver/6891/common/emacs_config/.emacs.d/emacs-for-python/extensions/yasnippet/snippets/scala-mode/var.new
+END
+var.ret
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/!svn/ver/6891/common/emacs_config/.emacs.d/emacs-for-python/extensions/yasnippet/snippets/scala-mode/var.ret
+END
+main
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/!svn/ver/6891/common/emacs_config/.emacs.d/emacs-for-python/extensions/yasnippet/snippets/scala-mode/main
+END
+cc
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/!svn/ver/6891/common/emacs_config/.emacs.d/emacs-for-python/extensions/yasnippet/snippets/scala-mode/cc
+END
+pr.string
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/!svn/ver/6891/common/emacs_config/.emacs.d/emacs-for-python/extensions/yasnippet/snippets/scala-mode/pr.string
+END
+ls.val-new
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/!svn/ver/6891/common/emacs_config/.emacs.d/emacs-for-python/extensions/yasnippet/snippets/scala-mode/ls.val-new
+END
+cast
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/!svn/ver/6891/common/emacs_config/.emacs.d/emacs-for-python/extensions/yasnippet/snippets/scala-mode/cast
+END
+hset.new
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/!svn/ver/6891/common/emacs_config/.emacs.d/emacs-for-python/extensions/yasnippet/snippets/scala-mode/hset.new
+END
+try.catch-finally
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/!svn/ver/6891/common/emacs_config/.emacs.d/emacs-for-python/extensions/yasnippet/snippets/scala-mode/try.catch-finally
+END
+tr.ext-with
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/!svn/ver/6891/common/emacs_config/.emacs.d/emacs-for-python/extensions/yasnippet/snippets/scala-mode/tr.ext-with
+END
+intercept
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/!svn/ver/6891/common/emacs_config/.emacs.d/emacs-for-python/extensions/yasnippet/snippets/scala-mode/intercept
+END
+cl
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/!svn/ver/6891/common/emacs_config/.emacs.d/emacs-for-python/extensions/yasnippet/snippets/scala-mode/cl
+END
+ob
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/!svn/ver/6891/common/emacs_config/.emacs.d/emacs-for-python/extensions/yasnippet/snippets/scala-mode/ob
+END
+co
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/!svn/ver/6891/common/emacs_config/.emacs.d/emacs-for-python/extensions/yasnippet/snippets/scala-mode/co
+END
+doc.def
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/!svn/ver/6891/common/emacs_config/.emacs.d/emacs-for-python/extensions/yasnippet/snippets/scala-mode/doc.def
+END
+pac
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/!svn/ver/6891/common/emacs_config/.emacs.d/emacs-for-python/extensions/yasnippet/snippets/scala-mode/pac
+END
+throw
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/!svn/ver/6891/common/emacs_config/.emacs.d/emacs-for-python/extensions/yasnippet/snippets/scala-mode/throw
+END
+match.option
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/!svn/ver/6891/common/emacs_config/.emacs.d/emacs-for-python/extensions/yasnippet/snippets/scala-mode/match.option
+END
+at.author
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/!svn/ver/6891/common/emacs_config/.emacs.d/emacs-for-python/extensions/yasnippet/snippets/scala-mode/at.author
+END
+ls.new
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/!svn/ver/6891/common/emacs_config/.emacs.d/emacs-for-python/extensions/yasnippet/snippets/scala-mode/ls.new
+END
+act
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/!svn/ver/6891/common/emacs_config/.emacs.d/emacs-for-python/extensions/yasnippet/snippets/scala-mode/act
+END
+actor
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/!svn/ver/6891/common/emacs_config/.emacs.d/emacs-for-python/extensions/yasnippet/snippets/scala-mode/actor
+END
+pr.simple
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/!svn/ver/6891/common/emacs_config/.emacs.d/emacs-for-python/extensions/yasnippet/snippets/scala-mode/pr.simple
+END
+doc.scaladoc
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/!svn/ver/6891/common/emacs_config/.emacs.d/emacs-for-python/extensions/yasnippet/snippets/scala-mode/doc.scaladoc
+END
+val
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/!svn/ver/6891/common/emacs_config/.emacs.d/emacs-for-python/extensions/yasnippet/snippets/scala-mode/val
+END
+def.ret-body
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/!svn/ver/6891/common/emacs_config/.emacs.d/emacs-for-python/extensions/yasnippet/snippets/scala-mode/def.ret-body
+END
+if.else
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/!svn/ver/6891/common/emacs_config/.emacs.d/emacs-for-python/extensions/yasnippet/snippets/scala-mode/if.else
+END
+ass
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/!svn/ver/6891/common/emacs_config/.emacs.d/emacs-for-python/extensions/yasnippet/snippets/scala-mode/ass
+END
+var
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/!svn/ver/6891/common/emacs_config/.emacs.d/emacs-for-python/extensions/yasnippet/snippets/scala-mode/var
+END
+expect
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/!svn/ver/6891/common/emacs_config/.emacs.d/emacs-for-python/extensions/yasnippet/snippets/scala-mode/expect
+END
+at.version
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/!svn/ver/6891/common/emacs_config/.emacs.d/emacs-for-python/extensions/yasnippet/snippets/scala-mode/at.version
+END
+def.body
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/!svn/ver/6891/common/emacs_config/.emacs.d/emacs-for-python/extensions/yasnippet/snippets/scala-mode/def.body
+END
+def.arg-ret
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/!svn/ver/6891/common/emacs_config/.emacs.d/emacs-for-python/extensions/yasnippet/snippets/scala-mode/def.arg-ret
+END
+for.loop
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/!svn/ver/6891/common/emacs_config/.emacs.d/emacs-for-python/extensions/yasnippet/snippets/scala-mode/for.loop
+END
+tr.with
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/!svn/ver/6891/common/emacs_config/.emacs.d/emacs-for-python/extensions/yasnippet/snippets/scala-mode/tr.with
+END
+cl.abs
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/!svn/ver/6891/common/emacs_config/.emacs.d/emacs-for-python/extensions/yasnippet/snippets/scala-mode/cl.abs
+END
+doc.file-scala
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/!svn/ver/6891/common/emacs_config/.emacs.d/emacs-for-python/extensions/yasnippet/snippets/scala-mode/doc.file-scala
+END
+map.new
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/!svn/ver/6891/common/emacs_config/.emacs.d/emacs-for-python/extensions/yasnippet/snippets/scala-mode/map.new
+END
+def.arg
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/!svn/ver/6891/common/emacs_config/.emacs.d/emacs-for-python/extensions/yasnippet/snippets/scala-mode/def.arg
+END
+cl.arg
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/!svn/ver/6891/common/emacs_config/.emacs.d/emacs-for-python/extensions/yasnippet/snippets/scala-mode/cl.arg
+END
+doc.class
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/!svn/ver/6891/common/emacs_config/.emacs.d/emacs-for-python/extensions/yasnippet/snippets/scala-mode/doc.class
+END
+try.finally
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/!svn/ver/6891/common/emacs_config/.emacs.d/emacs-for-python/extensions/yasnippet/snippets/scala-mode/try.finally
+END
+with
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/!svn/ver/6891/common/emacs_config/.emacs.d/emacs-for-python/extensions/yasnippet/snippets/scala-mode/with
+END
+doc.file-scala-api
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/!svn/ver/6891/common/emacs_config/.emacs.d/emacs-for-python/extensions/yasnippet/snippets/scala-mode/doc.file-scala-api
+END
+tup.paren
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/!svn/ver/6891/common/emacs_config/.emacs.d/emacs-for-python/extensions/yasnippet/snippets/scala-mode/tup.paren
+END
+act.arg
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/!svn/ver/6891/common/emacs_config/.emacs.d/emacs-for-python/extensions/yasnippet/snippets/scala-mode/act.arg
+END
+app
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/!svn/ver/6891/common/emacs_config/.emacs.d/emacs-for-python/extensions/yasnippet/snippets/scala-mode/app
+END
+pr.newline
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/!svn/ver/6891/common/emacs_config/.emacs.d/emacs-for-python/extensions/yasnippet/snippets/scala-mode/pr.newline
+END
+for.if
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/!svn/ver/6891/common/emacs_config/.emacs.d/emacs-for-python/extensions/yasnippet/snippets/scala-mode/for.if
+END
+doc.file
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/!svn/ver/6891/common/emacs_config/.emacs.d/emacs-for-python/extensions/yasnippet/snippets/scala-mode/doc.file
+END
+clof
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/!svn/ver/6891/common/emacs_config/.emacs.d/emacs-for-python/extensions/yasnippet/snippets/scala-mode/clof
+END
+cons.nil
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/!svn/ver/6891/common/emacs_config/.emacs.d/emacs-for-python/extensions/yasnippet/snippets/scala-mode/cons.nil
+END
+.yas-parents
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/!svn/ver/6891/common/emacs_config/.emacs.d/emacs-for-python/extensions/yasnippet/snippets/scala-mode/.yas-parents
+END
+tr.ext
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/!svn/ver/6891/common/emacs_config/.emacs.d/emacs-for-python/extensions/yasnippet/snippets/scala-mode/tr.ext
+END
+tr
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/!svn/ver/6891/common/emacs_config/.emacs.d/emacs-for-python/extensions/yasnippet/snippets/scala-mode/tr
+END
+def.simple
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/!svn/ver/6891/common/emacs_config/.emacs.d/emacs-for-python/extensions/yasnippet/snippets/scala-mode/def.simple
+END
+whi
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/!svn/ver/6891/common/emacs_config/.emacs.d/emacs-for-python/extensions/yasnippet/snippets/scala-mode/whi
+END
+asof
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/!svn/ver/6891/common/emacs_config/.emacs.d/emacs-for-python/extensions/yasnippet/snippets/scala-mode/asof
+END
+suite
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/!svn/ver/6891/common/emacs_config/.emacs.d/emacs-for-python/extensions/yasnippet/snippets/scala-mode/suite
+END
+def.arg-ret-body
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/!svn/ver/6891/common/emacs_config/.emacs.d/emacs-for-python/extensions/yasnippet/snippets/scala-mode/def.arg-ret-body
+END
+pri.param
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/!svn/ver/6891/common/emacs_config/.emacs.d/emacs-for-python/extensions/yasnippet/snippets/scala-mode/pri.param
+END
+pri
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/!svn/ver/6891/common/emacs_config/.emacs.d/emacs-for-python/extensions/yasnippet/snippets/scala-mode/pri
+END
+match
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/!svn/ver/6891/common/emacs_config/.emacs.d/emacs-for-python/extensions/yasnippet/snippets/scala-mode/match
+END
+arr.val-new
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/!svn/ver/6891/common/emacs_config/.emacs.d/emacs-for-python/extensions/yasnippet/snippets/scala-mode/arr.val-new
+END
+match.can
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/!svn/ver/6891/common/emacs_config/.emacs.d/emacs-for-python/extensions/yasnippet/snippets/scala-mode/match.can
+END
+if
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/!svn/ver/6891/common/emacs_config/.emacs.d/emacs-for-python/extensions/yasnippet/snippets/scala-mode/if
+END
+pro.param
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/!svn/ver/6891/common/emacs_config/.emacs.d/emacs-for-python/extensions/yasnippet/snippets/scala-mode/pro.param
+END
+isof
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/!svn/ver/6891/common/emacs_config/.emacs.d/emacs-for-python/extensions/yasnippet/snippets/scala-mode/isof
+END
+ext
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/!svn/ver/6891/common/emacs_config/.emacs.d/emacs-for-python/extensions/yasnippet/snippets/scala-mode/ext
+END
+pro
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/!svn/ver/6891/common/emacs_config/.emacs.d/emacs-for-python/extensions/yasnippet/snippets/scala-mode/pro
+END
+def.arg-body
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/!svn/ver/6891/common/emacs_config/.emacs.d/emacs-for-python/extensions/yasnippet/snippets/scala-mode/def.arg-body
+END
+at.param
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/!svn/ver/6891/common/emacs_config/.emacs.d/emacs-for-python/extensions/yasnippet/snippets/scala-mode/at.param
+END
+arr.new
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/!svn/ver/6891/common/emacs_config/.emacs.d/emacs-for-python/extensions/yasnippet/snippets/scala-mode/arr.new
+END
+map
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/!svn/ver/6891/common/emacs_config/.emacs.d/emacs-for-python/extensions/yasnippet/snippets/scala-mode/map
+END
+pr.trace
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/!svn/ver/6891/common/emacs_config/.emacs.d/emacs-for-python/extensions/yasnippet/snippets/scala-mode/pr.trace
+END
+try
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/!svn/ver/6891/common/emacs_config/.emacs.d/emacs-for-python/extensions/yasnippet/snippets/scala-mode/try
+END
+for.multi
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/!svn/ver/6891/common/emacs_config/.emacs.d/emacs-for-python/extensions/yasnippet/snippets/scala-mode/for.multi
+END
+at.return
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/!svn/ver/6891/common/emacs_config/.emacs.d/emacs-for-python/extensions/yasnippet/snippets/scala-mode/at.return
+END

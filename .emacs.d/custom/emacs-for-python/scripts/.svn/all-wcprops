@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/!svn/ver/6891/common/emacs_config/.emacs.d/emacs-for-python/scripts
+END
+package.py
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/!svn/ver/6891/common/emacs_config/.emacs.d/emacs-for-python/scripts/package.py
+END
+pylint-mod.py
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/!svn/ver/6891/common/emacs_config/.emacs.d/emacs-for-python/scripts/pylint-mod.py
+END
+tostarterkit.py
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/!svn/ver/6891/common/emacs_config/.emacs.d/emacs-for-python/scripts/tostarterkit.py
+END

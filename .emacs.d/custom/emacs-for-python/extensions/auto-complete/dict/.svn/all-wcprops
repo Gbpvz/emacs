@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/!svn/ver/6891/common/emacs_config/.emacs.d/emacs-for-python/extensions/auto-complete/dict
+END
+java-mode
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/!svn/ver/6891/common/emacs_config/.emacs.d/emacs-for-python/extensions/auto-complete/dict/java-mode
+END
+python-mode
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/!svn/ver/6891/common/emacs_config/.emacs.d/emacs-for-python/extensions/auto-complete/dict/python-mode
+END
+ruby-mode
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/!svn/ver/6891/common/emacs_config/.emacs.d/emacs-for-python/extensions/auto-complete/dict/ruby-mode
+END
+c-mode
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/!svn/ver/6891/common/emacs_config/.emacs.d/emacs-for-python/extensions/auto-complete/dict/c-mode
+END
+tcl-mode
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/!svn/ver/6891/common/emacs_config/.emacs.d/emacs-for-python/extensions/auto-complete/dict/tcl-mode
+END
+clojure-mode
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/!svn/ver/6891/common/emacs_config/.emacs.d/emacs-for-python/extensions/auto-complete/dict/clojure-mode
+END
+scheme-mode
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/!svn/ver/6891/common/emacs_config/.emacs.d/emacs-for-python/extensions/auto-complete/dict/scheme-mode
+END
+ada-mode
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/!svn/ver/6891/common/emacs_config/.emacs.d/emacs-for-python/extensions/auto-complete/dict/ada-mode
+END
+javascript-mode
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/!svn/ver/6891/common/emacs_config/.emacs.d/emacs-for-python/extensions/auto-complete/dict/javascript-mode
+END
+php-mode
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/!svn/ver/6891/common/emacs_config/.emacs.d/emacs-for-python/extensions/auto-complete/dict/php-mode
+END
+c++-mode
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/!svn/ver/6891/common/emacs_config/.emacs.d/emacs-for-python/extensions/auto-complete/dict/c++-mode
+END
+css-mode
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/!svn/ver/6891/common/emacs_config/.emacs.d/emacs-for-python/extensions/auto-complete/dict/css-mode
+END
+erlang-mode
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/!svn/ver/6891/common/emacs_config/.emacs.d/emacs-for-python/extensions/auto-complete/dict/erlang-mode
+END

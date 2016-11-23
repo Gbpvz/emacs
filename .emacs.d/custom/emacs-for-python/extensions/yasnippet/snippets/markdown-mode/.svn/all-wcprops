@@ -1,0 +1,137 @@
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/!svn/ver/6891/common/emacs_config/.emacs.d/emacs-for-python/extensions/yasnippet/snippets/markdown-mode
+END
++
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/!svn/ver/6891/common/emacs_config/.emacs.d/emacs-for-python/extensions/yasnippet/snippets/markdown-mode/+
+END
+-
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/!svn/ver/6891/common/emacs_config/.emacs.d/emacs-for-python/extensions/yasnippet/snippets/markdown-mode/-
+END
+link
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/!svn/ver/6891/common/emacs_config/.emacs.d/emacs-for-python/extensions/yasnippet/snippets/markdown-mode/link
+END
+rimg
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/!svn/ver/6891/common/emacs_config/.emacs.d/emacs-for-python/extensions/yasnippet/snippets/markdown-mode/rimg
+END
+h1.1
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/!svn/ver/6891/common/emacs_config/.emacs.d/emacs-for-python/extensions/yasnippet/snippets/markdown-mode/h1.1
+END
+hr.1
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/!svn/ver/6891/common/emacs_config/.emacs.d/emacs-for-python/extensions/yasnippet/snippets/markdown-mode/hr.1
+END
+h2.1
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/!svn/ver/6891/common/emacs_config/.emacs.d/emacs-for-python/extensions/yasnippet/snippets/markdown-mode/h2.1
+END
+h1.2
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/!svn/ver/6891/common/emacs_config/.emacs.d/emacs-for-python/extensions/yasnippet/snippets/markdown-mode/h1.2
+END
+hr.2
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/!svn/ver/6891/common/emacs_config/.emacs.d/emacs-for-python/extensions/yasnippet/snippets/markdown-mode/hr.2
+END
+h2.2
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/!svn/ver/6891/common/emacs_config/.emacs.d/emacs-for-python/extensions/yasnippet/snippets/markdown-mode/h2.2
+END
+h3
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/!svn/ver/6891/common/emacs_config/.emacs.d/emacs-for-python/extensions/yasnippet/snippets/markdown-mode/h3
+END
+ol
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/!svn/ver/6891/common/emacs_config/.emacs.d/emacs-for-python/extensions/yasnippet/snippets/markdown-mode/ol
+END
+h4
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/!svn/ver/6891/common/emacs_config/.emacs.d/emacs-for-python/extensions/yasnippet/snippets/markdown-mode/h4
+END
+h5
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/!svn/ver/6891/common/emacs_config/.emacs.d/emacs-for-python/extensions/yasnippet/snippets/markdown-mode/h5
+END
+img
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/!svn/ver/6891/common/emacs_config/.emacs.d/emacs-for-python/extensions/yasnippet/snippets/markdown-mode/img
+END
+__
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/!svn/ver/6891/common/emacs_config/.emacs.d/emacs-for-python/extensions/yasnippet/snippets/markdown-mode/__
+END
+h6
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/!svn/ver/6891/common/emacs_config/.emacs.d/emacs-for-python/extensions/yasnippet/snippets/markdown-mode/h6
+END
+_
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/!svn/ver/6891/common/emacs_config/.emacs.d/emacs-for-python/extensions/yasnippet/snippets/markdown-mode/_
+END
+`
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/!svn/ver/6891/common/emacs_config/.emacs.d/emacs-for-python/extensions/yasnippet/snippets/markdown-mode/%60
+END
+rlb
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/!svn/ver/6891/common/emacs_config/.emacs.d/emacs-for-python/extensions/yasnippet/snippets/markdown-mode/rlb
+END
+rlink
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/!svn/ver/6891/common/emacs_config/.emacs.d/emacs-for-python/extensions/yasnippet/snippets/markdown-mode/rlink
+END
+.yas-parents
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/!svn/ver/6891/common/emacs_config/.emacs.d/emacs-for-python/extensions/yasnippet/snippets/markdown-mode/.yas-parents
+END
